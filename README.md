@@ -56,13 +56,6 @@ Emotion-based movie recommendation engine
 
 ---
 
-## 📈 GitHub Stats
-
-![Osman Asaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanasaf&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanasaf&layout=compact)
-
----
-
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/osman-asaf-tatar)  
 - ✉️ osmanasaftatar@gmail.com  
